@@ -1,0 +1,724 @@
+{
+  "query_cursor": 67,
+  "query_history": [
+    {
+      "query_id": "q_0000",
+      "query": "\"Aptos\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Aptos",
+      "executed_at": "2026-04-30T08:30:49.384007+00:00",
+      "results_seen": 6,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 6,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:aptosnetwork.com (cryptography OR security) (team OR author OR research)",
+      "company": "Aptos",
+      "executed_at": "2026-04-30T08:31:17.344593+00:00",
+      "results_seen": 8,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 8,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Aptos\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Aptos",
+      "executed_at": "2026-04-30T08:31:30.964828+00:00",
+      "results_seen": 6,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 6,
+      "min_score": 50
+    },
+    {
+      "query_id": "q_0003",
+      "query": "\"ChainSafe\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "ChainSafe",
+      "executed_at": "2026-04-30T08:31:41.545124+00:00",
+      "results_seen": 10,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 10,
+      "min_score": 10
+    },
+    {
+      "query_id": "q_0004",
+      "query": "site:chainsafe.io (cryptography OR security) (team OR author OR research)",
+      "company": "ChainSafe",
+      "executed_at": "2026-04-30T08:31:47.353611+00:00",
+      "results_seen": 8,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 8,
+      "min_score": 0
+    },
+    {
+      "query_id": "q_0005",
+      "query": "\"ChainSafe\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "ChainSafe",
+      "executed_at": "2026-04-30T08:38:08.758486+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 5,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0006",
+      "query": "\"CyberSN\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "CyberSN",
+      "executed_at": "2026-04-30T08:38:18.812274+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 5,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0007",
+      "query": "site:cybersn.com (cryptography OR security) (team OR author OR research)",
+      "company": "CyberSN",
+      "executed_at": "2026-04-30T08:38:29.612985+00:00",
+      "results_seen": 5,
+      "added_count": 2,
+      "updated_count": 0,
+      "skipped_count": 3,
+      "min_score": 10
+    },
+    {
+      "query_id": "q_0008",
+      "query": "\"CyberSN\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "CyberSN",
+      "executed_at": "2026-04-30T19:55:43.216532+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 5,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0009",
+      "query": "\"Ellipsis Labs\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Ellipsis Labs",
+      "executed_at": "2026-04-30T19:55:48.895830+00:00",
+      "results_seen": 1,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 1,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0010",
+      "query": "site:ellipsislabs.xyz (cryptography OR security) (team OR author OR research)",
+      "company": "Ellipsis Labs",
+      "executed_at": "2026-04-30T19:55:54.751861+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 5,
+      "min_score": 75
+    },
+    {
+      "query_id": "q_0011",
+      "query": "\"Ellipsis Labs\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Ellipsis Labs",
+      "executed_at": "2026-04-30T19:56:07.107830+00:00",
+      "results_seen": 1,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 1,
+      "min_score": 0
+    },
+    {
+      "query_id": "q_0012",
+      "query": "\"Ethereum\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Ethereum",
+      "executed_at": "2026-04-30T19:56:11.541997+00:00",
+      "results_seen": 5,
+      "added_count": 3,
+      "updated_count": 0,
+      "skipped_count": 2,
+      "min_score": 0
+    },
+    {
+      "query_id": "q_0013",
+      "query": "site:jobs.ashbyhq.com (cryptography OR security) (team OR author OR research)",
+      "company": "Ethereum",
+      "executed_at": "2026-04-30T20:04:04.051253+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0014",
+      "query": "\"Ethereum\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Ethereum",
+      "executed_at": "2026-04-30T20:04:05.801965+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 5,
+      "skipped_count": 5
+    },
+    {
+      "query_id": "q_0015",
+      "query": "\"Galois\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Galois",
+      "executed_at": "2026-04-30T20:04:07.583490+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 5,
+      "skipped_count": 10
+    },
+    {
+      "query_id": "q_0016",
+      "query": "site:galois.com (cryptography OR security) (team OR author OR research)",
+      "company": "Galois",
+      "executed_at": "2026-04-30T20:04:08.273145+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 7,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0017",
+      "query": "\"Galois\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Galois",
+      "executed_at": "2026-04-30T20:04:08.966736+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 7,
+      "skipped_count": 18
+    },
+    {
+      "query_id": "q_0018",
+      "query": "\"Google\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Google",
+      "executed_at": "2026-04-30T20:04:10.514811+00:00",
+      "results_seen": 5,
+      "added_count": 4,
+      "updated_count": 7,
+      "skipped_count": 19
+    },
+    {
+      "query_id": "q_0019",
+      "query": "site:google.com (cryptography OR security) (team OR author OR research)",
+      "company": "Google",
+      "executed_at": "2026-04-30T20:04:11.155089+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 9,
+      "skipped_count": 22
+    },
+    {
+      "query_id": "q_0020",
+      "query": "\"Google\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Google",
+      "executed_at": "2026-04-30T20:04:11.759792+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 13,
+      "skipped_count": 23
+    },
+    {
+      "query_id": "q_0021",
+      "query": "\"Helsing\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Helsing",
+      "executed_at": "2026-04-30T20:04:14.860418+00:00",
+      "results_seen": 3,
+      "added_count": 1,
+      "updated_count": 13,
+      "skipped_count": 25
+    },
+    {
+      "query_id": "q_0022",
+      "query": "site:helsing.ai (cryptography OR security) (team OR author OR research)",
+      "company": "Helsing",
+      "executed_at": "2026-05-01T02:42:37.267379+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0023",
+      "query": "\"Helsing\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Helsing",
+      "executed_at": "2026-05-01T02:42:38.938802+00:00",
+      "results_seen": 5,
+      "added_count": 1,
+      "updated_count": 2,
+      "skipped_count": 7
+    },
+    {
+      "query_id": "q_0024",
+      "query": "\"IACR\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "IACR",
+      "executed_at": "2026-05-01T02:42:39.528059+00:00",
+      "results_seen": 1,
+      "added_count": 1,
+      "updated_count": 2,
+      "skipped_count": 7
+    },
+    {
+      "query_id": "q_0025",
+      "query": "site:iacr.org (cryptography OR security) (team OR author OR research)",
+      "company": "IACR",
+      "executed_at": "2026-05-01T02:42:40.128917+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 4,
+      "skipped_count": 10
+    },
+    {
+      "query_id": "q_0026",
+      "query": "\"IACR\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "IACR",
+      "executed_at": "2026-05-01T02:42:40.371379+00:00",
+      "results_seen": 1,
+      "added_count": 0,
+      "updated_count": 5,
+      "skipped_count": 10
+    },
+    {
+      "query_id": "q_0027",
+      "query": "\"IBM\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "IBM",
+      "executed_at": "2026-05-01T02:42:41.779291+00:00",
+      "results_seen": 5,
+      "added_count": 3,
+      "updated_count": 5,
+      "skipped_count": 12
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:provenrun.com (cryptography OR security) (team OR author OR research)",
+      "company": "ProvenRun",
+      "executed_at": "2026-05-01T09:12:49.501948+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"ProvenRun\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "ProvenRun",
+      "executed_at": "2026-05-01T09:12:50.770331+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 4,
+      "skipped_count": 6
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"ProvenRun\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "ProvenRun",
+      "executed_at": "2026-05-01T09:12:51.575062+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 6,
+      "skipped_count": 9
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:pqshield.com (cryptography OR security) (team OR author OR research)",
+      "company": "PQShield",
+      "executed_at": "2026-05-01T09:15:01.430004+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"PQShield\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "PQShield",
+      "executed_at": "2026-05-01T09:15:02.554915+00:00",
+      "results_seen": 3,
+      "added_count": 3,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"PQShield\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "PQShield",
+      "executed_at": "2026-05-01T09:15:02.981516+00:00",
+      "results_seen": 3,
+      "added_count": 0,
+      "updated_count": 5,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:quarkslab.com (cryptography OR security) (team OR author OR research)",
+      "company": "Quarkslab",
+      "executed_at": "2026-05-01T09:16:01.016662+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Quarkslab\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Quarkslab",
+      "executed_at": "2026-05-01T09:16:02.731613+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"Quarkslab\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Quarkslab",
+      "executed_at": "2026-05-01T09:16:03.419021+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:hudsonrivertrading.com (cryptography OR security) (team OR author OR research)",
+      "company": "HRT",
+      "executed_at": "2026-05-01T09:26:12.174441+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"HRT\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "HRT",
+      "executed_at": "2026-05-01T09:26:14.058215+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"HRT\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "HRT",
+      "executed_at": "2026-05-01T09:26:14.744790+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:janestreet.com (cryptography OR security) (team OR author OR research)",
+      "company": "Jane Street",
+      "executed_at": "2026-05-01T09:29:54.393132+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Jane Street\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Jane Street",
+      "executed_at": "2026-05-01T09:29:55.690526+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"Jane Street\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Jane Street",
+      "executed_at": "2026-05-01T09:29:56.362851+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:citadelsecurities.com (cryptography OR security) (team OR author OR research)",
+      "company": "Citadel Securities",
+      "executed_at": "2026-05-01T09:35:20.793740+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 5
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Citadel Securities\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Citadel Securities",
+      "executed_at": "2026-05-01T09:35:22.079397+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 10
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"Citadel Securities\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Citadel Securities",
+      "executed_at": "2026-05-01T09:35:22.995844+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 0,
+      "skipped_count": 15
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:jobs.deel.com (cryptography OR security) (team OR author OR research)",
+      "company": "Dfns",
+      "executed_at": "2026-05-01T11:06:17.655479+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Dfns\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Dfns",
+      "executed_at": "2026-05-01T11:06:19.325857+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"Dfns\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Dfns",
+      "executed_at": "2026-05-01T11:06:19.942079+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0049",
+      "query": "site:microsoft.com (cryptography OR security) (team OR author OR research)",
+      "company": "Microsoft",
+      "executed_at": "2026-05-01T20:17:42.154139+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0050",
+      "query": "\"Microsoft\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Microsoft",
+      "executed_at": "2026-05-01T20:17:43.430729+00:00",
+      "results_seen": 5,
+      "added_count": 3,
+      "updated_count": 3,
+      "skipped_count": 4
+    },
+    {
+      "query_id": "q_0051",
+      "query": "\"MIT SRP\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "MIT SRP",
+      "executed_at": "2026-05-01T20:17:44.584572+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 5,
+      "skipped_count": 7
+    },
+    {
+      "query_id": "q_0052",
+      "query": "site:oge.mit.edu (cryptography OR security) (team OR author OR research)",
+      "company": "MIT SRP",
+      "executed_at": "2026-05-01T20:17:45.077621+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 7,
+      "skipped_count": 10
+    },
+    {
+      "query_id": "q_0053",
+      "query": "\"MIT SRP\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "MIT SRP",
+      "executed_at": "2026-05-01T20:17:45.728492+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 9,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0054",
+      "query": "\"O1 Labs\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "O1 Labs",
+      "executed_at": "2026-05-01T20:17:46.240672+00:00",
+      "results_seen": 1,
+      "added_count": 1,
+      "updated_count": 9,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0055",
+      "query": "site:o1labs.org (cryptography OR security) (team OR author OR research)",
+      "company": "O1 Labs",
+      "executed_at": "2026-05-01T20:17:47.089124+00:00",
+      "results_seen": 10,
+      "added_count": 0,
+      "updated_count": 9,
+      "skipped_count": 23
+    },
+    {
+      "query_id": "q_0056",
+      "query": "\"O1 Labs\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "O1 Labs",
+      "executed_at": "2026-05-01T20:17:48.196579+00:00",
+      "results_seen": 10,
+      "added_count": 0,
+      "updated_count": 9,
+      "skipped_count": 33
+    },
+    {
+      "query_id": "q_0057",
+      "query": "\"OpenAI\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "OpenAI",
+      "executed_at": "2026-05-01T20:17:52.652081+00:00",
+      "results_seen": 10,
+      "added_count": 3,
+      "updated_count": 9,
+      "skipped_count": 40
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:mentorship.lfx.linuxfoundation.org (cryptography OR security) (team OR author OR research)",
+      "company": "LFX Mentorship",
+      "executed_at": "2026-05-02T17:45:11.333265+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"LFX Mentorship\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "LFX Mentorship",
+      "executed_at": "2026-05-02T17:45:13.164043+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"LFX Mentorship\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "LFX Mentorship",
+      "executed_at": "2026-05-02T17:45:13.896589+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:hacktoberfest.com (cryptography OR security) (team OR author OR research)",
+      "company": "Hacktoberfest",
+      "executed_at": "2026-05-02T20:21:28.536104+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"Hacktoberfest\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "Hacktoberfest",
+      "executed_at": "2026-05-02T20:21:31.094693+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"Hacktoberfest\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "Hacktoberfest",
+      "executed_at": "2026-05-02T20:21:31.760758+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    },
+    {
+      "query_id": "q_0001",
+      "query": "site:fellowship.mlh.io (cryptography OR security) (team OR author OR research)",
+      "company": "MLH Fellowship",
+      "executed_at": "2026-05-02T20:31:15.044319+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 3
+    },
+    {
+      "query_id": "q_0002",
+      "query": "\"MLH Fellowship\" cryptography zero-knowledge (researcher OR engineer) (author OR team OR research)",
+      "company": "MLH Fellowship",
+      "executed_at": "2026-05-02T20:31:16.775362+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 8
+    },
+    {
+      "query_id": "q_0000",
+      "query": "\"MLH Fellowship\" cryptography security (researcher OR engineer) (github OR blog OR talk OR paper)",
+      "company": "MLH Fellowship",
+      "executed_at": "2026-05-02T20:31:17.447476+00:00",
+      "results_seen": 5,
+      "added_count": 0,
+      "updated_count": 2,
+      "skipped_count": 13
+    }
+  ],
+  "resume_cache": {
+    "resume_path": "/Users/coding/Downloads/Internship Search/resume_latestV0.pdf",
+    "extracted_at": "2026-05-02T20:31:13.474957+00:00",
+    "inferred_level": "early-career",
+    "keywords": [
+      "cryptography",
+      "systems",
+      "python",
+      "security",
+      "zero-knowledge",
+      "zk",
+      "c++",
+      "docker",
+      "proofs",
+      "rust"
+    ],
+    "role_terms": [
+      "intern",
+      "researcher"
+    ],
+    "summary_terms": [
+      "stanford",
+      "systems",
+      "cryptography",
+      "computer",
+      "students",
+      "python",
+      "security",
+      "advanced",
+      "zero-knowledge",
+      "bare-metal",
+      "drivers",
+      "akambire"
+    ]
+  },
+  "last_run": "2026-05-02T20:31:17.450583+00:00"
+}

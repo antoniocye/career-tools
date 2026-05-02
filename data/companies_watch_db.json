@@ -1,0 +1,477 @@
+{
+  "companies": [
+    {
+      "name": "Zellic",
+      "targets": [
+        {
+          "url": "https://zellic-inc.notion.site/Jobs-at-Zellic-82cab8ab2be84a3b9fa443e56196fdfa",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Trail of Bits",
+      "targets": [
+        {
+          "url": "https://apply.workable.com/trailofbits/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Ellipsis Labs",
+      "targets": [
+        {
+          "url": "https://www.ellipsislabs.xyz/careers#roles",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Zed",
+      "targets": [
+        {
+          "url": "https://zed.dev/jobs",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Sequentech",
+      "targets": [
+        {
+          "url": "https://sequentech.io/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "MIT SRP",
+      "targets": [
+        {
+          "url": "https://oge.mit.edu/msrp/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "YC WIH",
+      "targets": [
+        {
+          "url": "https://news.ycombinator.com/submitted?id=whoishiring",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "IACR",
+      "targets": [
+        {
+          "url": "https://www.iacr.org/jobs/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Microsoft",
+      "targets": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Google",
+      "targets": [
+        {
+          "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=Student%20Researcher&hl=en_US&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Google&company=YouTube&degree=PURSUING_DEGREE&degree=MASTERS&degree=BACHELORS",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "IBM",
+      "targets": [
+        {
+          "url": "https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_08[1]=Infrastructure%20%26%20Technology&field_keyword_08[2]=Software%20Engineering&field_keyword_18[0]=Internship",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Web3 Jobs",
+      "targets": [
+        {
+          "url": "https://web3.career/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Helsing",
+      "targets": [
+        {
+          "url": "https://helsing.ai/jobs",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "zkSecurity",
+      "targets": [
+        {
+          "url": "https://zksecurity.xyz/jobs/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "yAudit",
+      "targets": [
+        {
+          "url": "https://yaudit.dev/fellowships",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "RV",
+      "targets": [
+        {
+          "url": "https://runtimeverification.com/careers",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Veridise",
+      "targets": [
+        {
+          "url": "https://veridise.com/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Succinct",
+      "targets": [
+        {
+          "url": "https://jobs.ashbyhq.com/succinct",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Least Authority",
+      "targets": [
+        {
+          "url": "https://leastauthority.com/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Zama",
+      "targets": [
+        {
+          "url": "https://jobs.zama.org/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "MATS",
+      "targets": [
+        {
+          "url": "https://www.matsprogram.org/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "SPAR",
+      "targets": [
+        {
+          "url": "https://sparai.org/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Red Canary",
+      "targets": [
+        {
+          "url": "https://www.zscaler.com/careers/search?page=1&work_options=internship&departments=Agentic+AI&departments=AI+Security&departments=Information+Security&departments=Engineering&departments=IT",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "CyberSN",
+      "targets": [
+        {
+          "url": "https://cybersn.com/public/search-jobs/q/f-softwareengineering&f-researchhardware&f-researchsoftware&f-cyberdatascientist&f-researchthreats&f-cybersoftwareengineering&f-productsecurity&f-applicationsecurity&f-aisecurityengineer&f-securityengineering&f-identityandaccessmanagementiam&f-securityanalysis&f-datalossprevention",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "ChainSafe",
+      "targets": [
+        {
+          "url": "https://chainsafe.io/about-us#jobs",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "O1 Labs",
+      "targets": [
+        {
+          "url": "https://www.o1labs.org/about-us",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Galois",
+      "targets": [
+        {
+          "url": "https://www.galois.com/careers#openings",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "TikTok",
+      "targets": [
+        {
+          "url": "https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=6704215862603155720&subject_id_list=7391494724038953254%2C7602165694713678133%2C7602165701485299973%2C7459986622530078983%2C7459987887569733896%2C7626270266902989061%2C7626270100032063797&location_code_list=&keyword=&limit=12&offset=0",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Sourcegraph",
+      "targets": [
+        {
+          "url": "https://job-boards.greenhouse.io/sourcegraph91",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Ethereum",
+      "targets": [
+        {
+          "url": "https://jobs.ashbyhq.com/ethereum-foundation",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Reddit Rust",
+      "targets": [
+        {
+          "url": "https://www.reddit.com/r/rust/?f=flair_name%3A%22%F0%9F%92%BC%20jobs%20megathread%22",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Aptos",
+      "targets": [
+        {
+          "url": "https://aptosnetwork.com/foundation/careers",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "OpenAI",
+      "targets": [
+        {
+          "url": "https://openai.com/careers/search/?q=cryptography",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "ProvenRun",
+      "targets": [
+        {
+          "url": "https://provenrun.com/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "PQShield",
+      "targets": [
+        {
+          "url": "https://pqshield.com/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Quarkslab",
+      "targets": [
+        {
+          "url": "https://www.quarkslab.com/careers-jobs/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "HRT",
+      "targets": [
+        {
+          "url": "https://www.hudsonrivertrading.com/student-opportunities/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Jane Street",
+      "targets": [
+        {
+          "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Citadel Securities",
+      "targets": [
+        {
+          "url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,miami,new-york&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Dfns",
+      "targets": [
+        {
+          "url": "https://jobs.deel.com/dfns?departmentsAndTeams[]=cd20246f-4920-4116-8e77-0439cf070c39&departmentsAndTeams[]=8bf71dc2-488b-4ce8-8afc-96978addc695&departmentsAndTeams[]=f8f22021-9d27-4d1d-b1db-bd650d7c631a&departmentsAndTeams[]=87bdce60-2bd0-43fc-9c3a-68c88c546624&departmentsAndTeams[]=b44d252f-0127-449b-80d4-e320ee4bd5e3&locationIds[]=62c3422d-2901-4f91-a8b6-6667d292db7a&locationIds[]=e3961b5f-3aec-4053-b9eb-66658552d3c3",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "LFX Mentorship",
+      "targets": [
+        {
+          "url": "https://mentorship.lfx.linuxfoundation.org/#projects_accepting",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "Hacktoberfest",
+      "targets": [
+        {
+          "url": "https://hacktoberfest.com/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "MLH Fellowship",
+      "targets": [
+        {
+          "url": "https://fellowship.mlh.io/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    }
+  ]
+}

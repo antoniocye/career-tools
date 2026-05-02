@@ -1,0 +1,1418 @@
+{
+  "meta": {
+    "version": 1
+  },
+  "people": [
+    {
+      "person_id": "p_c681762f5d63",
+      "full_name": "Jack Lloyd",
+      "normalized_name": "jack lloyd",
+      "canonical_url": "https://github.com/randombit",
+      "profile_urls": [
+        "https://github.com/randombit",
+        "https://github.com/randombit"
+      ],
+      "companies_matched": [
+        "CyberSN",
+        "Ethereum",
+        "Galois",
+        "Google",
+        "Helsing",
+        "IACR",
+        "ProvenRun",
+        "PQShield",
+        "Quarkslab",
+        "HRT",
+        "Jane Street",
+        "Dfns",
+        "Microsoft",
+        "MIT SRP",
+        "LFX Mentorship",
+        "Hacktoberfest",
+        "MLH Fellowship"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 63,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Jack Lloyd",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to CyberSN.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Ethereum.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Galois.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Google.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Helsing.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to IACR.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to ProvenRun.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to PQShield.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Quarkslab.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to HRT.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Jane Street.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Dfns.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Microsoft.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to MIT SRP.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to LFX Mentorship.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Hacktoberfest.",
+          "source_url": "https://github.com/randombit"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to MLH Fellowship.",
+          "source_url": "https://github.com/randombit"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T08:38:29.611729+00:00",
+      "last_seen_at": "2026-05-02T20:31:15.044016+00:00",
+      "added_by_query_id": "q_0007"
+    },
+    {
+      "person_id": "p_4543358d27e3",
+      "full_name": "Weikeng Chen",
+      "normalized_name": "weikeng chen",
+      "canonical_url": "https://github.com/weikengchen",
+      "profile_urls": [
+        "https://github.com/weikengchen",
+        "https://github.com/weikengchen"
+      ],
+      "companies_matched": [
+        "CyberSN",
+        "Ethereum",
+        "Galois",
+        "Google",
+        "Helsing",
+        "IACR",
+        "ProvenRun",
+        "PQShield",
+        "Quarkslab",
+        "HRT",
+        "Jane Street",
+        "Dfns",
+        "Microsoft",
+        "MIT SRP",
+        "LFX Mentorship",
+        "Hacktoberfest",
+        "MLH Fellowship"
+      ],
+      "title_observed": "",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 63,
+      "resume_keyword_matches": [
+        "zk"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Weikeng Chen",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to CyberSN.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: zk",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Ethereum.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Galois.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Google.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Helsing.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to IACR.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to ProvenRun.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to PQShield.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Quarkslab.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to HRT.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Jane Street.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Dfns.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Microsoft.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to MIT SRP.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to LFX Mentorship.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Hacktoberfest.",
+          "source_url": "https://github.com/weikengchen"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to MLH Fellowship.",
+          "source_url": "https://github.com/weikengchen"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:zk",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T08:38:29.611944+00:00",
+      "last_seen_at": "2026-05-02T20:31:15.044245+00:00",
+      "added_by_query_id": "q_0007"
+    },
+    {
+      "person_id": "p_c636d7b7a51d",
+      "full_name": "Sora Suegami",
+      "normalized_name": "sora suegami",
+      "canonical_url": "https://github.com/SoraSuegami",
+      "profile_urls": [
+        "https://github.com/SoraSuegami",
+        "https://github.com/SoraSuegami"
+      ],
+      "companies_matched": [
+        "Ethereum"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 81,
+      "resume_keyword_matches": [
+        "cryptography",
+        "zero-knowledge"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Sora Suegami",
+          "source_url": "https://github.com/SoraSuegami"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Ethereum.",
+          "source_url": "https://github.com/SoraSuegami"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, zero-knowledge",
+          "source_url": "https://github.com/SoraSuegami"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography,zero-knowledge",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T19:56:11.539847+00:00",
+      "last_seen_at": "2026-04-30T20:04:05.801306+00:00",
+      "added_by_query_id": "q_0012"
+    },
+    {
+      "person_id": "p_c06fa5a7a14f",
+      "full_name": "Kevin Chia",
+      "normalized_name": "kevin chia",
+      "canonical_url": "https://github.com/mhchia",
+      "profile_urls": [
+        "https://github.com/mhchia",
+        "https://github.com/mhchia"
+      ],
+      "companies_matched": [
+        "Ethereum"
+      ],
+      "title_observed": "Engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 81,
+      "resume_keyword_matches": [
+        "cryptography",
+        "zk"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Kevin Chia",
+          "source_url": "https://github.com/mhchia"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Ethereum.",
+          "source_url": "https://github.com/mhchia"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, zk",
+          "source_url": "https://github.com/mhchia"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Engineer",
+          "source_url": "https://github.com/mhchia"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography,zk",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T19:56:11.540057+00:00",
+      "last_seen_at": "2026-04-30T20:04:05.801576+00:00",
+      "added_by_query_id": "q_0012"
+    },
+    {
+      "person_id": "p_dbd89451a85e",
+      "full_name": "Mamy Ratsimbazafy",
+      "normalized_name": "mamy ratsimbazafy",
+      "canonical_url": "https://github.com/mratsim",
+      "profile_urls": [
+        "https://github.com/mratsim",
+        "https://github.com/mratsim"
+      ],
+      "companies_matched": [
+        "Ethereum"
+      ],
+      "title_observed": "Scientist",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "cryptography",
+        "zk"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Mamy Ratsimbazafy",
+          "source_url": "https://github.com/mratsim"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Ethereum.",
+          "source_url": "https://github.com/mratsim"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, zk",
+          "source_url": "https://github.com/mratsim"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Scientist",
+          "source_url": "https://github.com/mratsim"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography,zk",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T19:56:11.540576+00:00",
+      "last_seen_at": "2026-04-30T20:04:05.801924+00:00",
+      "added_by_query_id": "q_0012"
+    },
+    {
+      "person_id": "p_b7476026ea9f",
+      "full_name": "Sophie Schmieg",
+      "normalized_name": "sophie schmieg",
+      "canonical_url": "https://github.com/sophieschmieg",
+      "profile_urls": [
+        "https://github.com/sophieschmieg",
+        "https://github.com/sophieschmieg"
+      ],
+      "companies_matched": [
+        "Google"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Sophie Schmieg",
+          "source_url": "https://github.com/sophieschmieg"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Google.",
+          "source_url": "https://github.com/sophieschmieg"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/sophieschmieg"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T20:04:10.513647+00:00",
+      "last_seen_at": "2026-04-30T20:04:11.758675+00:00",
+      "added_by_query_id": "q_0018"
+    },
+    {
+      "person_id": "p_10bd7b69881d",
+      "full_name": "Samuel Schlesinger",
+      "normalized_name": "samuel schlesinger",
+      "canonical_url": "https://github.com/SamuelSchlesinger",
+      "profile_urls": [
+        "https://github.com/SamuelSchlesinger",
+        "https://github.com/SamuelSchlesinger"
+      ],
+      "companies_matched": [
+        "Google"
+      ],
+      "title_observed": "engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 81,
+      "resume_keyword_matches": [
+        "cryptography",
+        "security"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Samuel Schlesinger",
+          "source_url": "https://github.com/SamuelSchlesinger"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Google.",
+          "source_url": "https://github.com/SamuelSchlesinger"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, security",
+          "source_url": "https://github.com/SamuelSchlesinger"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: engineer",
+          "source_url": "https://github.com/SamuelSchlesinger"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography,security",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T20:04:10.514061+00:00",
+      "last_seen_at": "2026-04-30T20:04:11.759114+00:00",
+      "added_by_query_id": "q_0018"
+    },
+    {
+      "person_id": "p_410ef319a78c",
+      "full_name": "Ryan Hurst",
+      "normalized_name": "ryan hurst",
+      "canonical_url": "https://github.com/rmhrisk",
+      "profile_urls": [
+        "https://github.com/rmhrisk",
+        "https://github.com/rmhrisk"
+      ],
+      "companies_matched": [
+        "Google",
+        "Microsoft"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Ryan Hurst",
+          "source_url": "https://github.com/rmhrisk"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Google.",
+          "source_url": "https://github.com/rmhrisk"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/rmhrisk"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Microsoft.",
+          "source_url": "https://github.com/rmhrisk"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T20:04:10.514518+00:00",
+      "last_seen_at": "2026-05-01T20:17:43.430200+00:00",
+      "added_by_query_id": "q_0018"
+    },
+    {
+      "person_id": "p_e36083b4e3a7",
+      "full_name": "Cindy Lin",
+      "normalized_name": "cindy lin",
+      "canonical_url": "https://github.com/cindylindeed",
+      "profile_urls": [
+        "https://github.com/cindylindeed",
+        "https://github.com/cindylindeed"
+      ],
+      "companies_matched": [
+        "Google"
+      ],
+      "title_observed": "Engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Cindy Lin",
+          "source_url": "https://github.com/cindylindeed"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Google.",
+          "source_url": "https://github.com/cindylindeed"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/cindylindeed"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Engineer",
+          "source_url": "https://github.com/cindylindeed"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-04-30T20:04:10.514751+00:00",
+      "last_seen_at": "2026-04-30T20:04:11.759750+00:00",
+      "added_by_query_id": "q_0018"
+    },
+    {
+      "person_id": "p_24193dbd3259",
+      "full_name": "Jon Gjengset",
+      "normalized_name": "jon gjengset",
+      "canonical_url": "https://github.com/jonhoo",
+      "profile_urls": [
+        "https://github.com/jonhoo",
+        "https://github.com/jonhoo"
+      ],
+      "companies_matched": [
+        "Helsing"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "rust"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Jon Gjengset",
+          "source_url": "https://github.com/jonhoo"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Helsing.",
+          "source_url": "https://github.com/jonhoo"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: rust",
+          "source_url": "https://github.com/jonhoo"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:rust",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T02:42:38.938586+00:00",
+      "last_seen_at": "2026-05-01T02:42:38.938625+00:00",
+      "added_by_query_id": "q_0023"
+    },
+    {
+      "person_id": "p_ebfc06e7a2ad",
+      "full_name": "Daniele Micciancio",
+      "normalized_name": "daniele micciancio",
+      "canonical_url": "https://github.com/micciancio",
+      "profile_urls": [
+        "https://github.com/micciancio",
+        "https://github.com/micciancio"
+      ],
+      "companies_matched": [
+        "IACR"
+      ],
+      "title_observed": "professor",
+      "seniority": "senior",
+      "classification": "aspirational",
+      "review_status": "new",
+      "score": 63,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Daniele Micciancio",
+          "source_url": "https://github.com/micciancio"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to IACR.",
+          "source_url": "https://github.com/micciancio"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/micciancio"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: professor",
+          "source_url": "https://github.com/micciancio"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T02:42:39.527920+00:00",
+      "last_seen_at": "2026-05-01T02:42:40.371327+00:00",
+      "added_by_query_id": "q_0024"
+    },
+    {
+      "person_id": "p_1fdac78d17e5",
+      "full_name": "Gregory Boland",
+      "normalized_name": "gregory boland",
+      "canonical_url": "https://github.com/boland25",
+      "profile_urls": [
+        "https://github.com/boland25",
+        "https://github.com/boland25"
+      ],
+      "companies_matched": [
+        "IBM"
+      ],
+      "title_observed": "Engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "cryptography",
+        "systems"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Gregory Boland",
+          "source_url": "https://github.com/boland25"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to IBM.",
+          "source_url": "https://github.com/boland25"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, systems",
+          "source_url": "https://github.com/boland25"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Engineer",
+          "source_url": "https://github.com/boland25"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography,systems",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T02:42:41.778603+00:00",
+      "last_seen_at": "2026-05-01T02:42:41.778645+00:00",
+      "added_by_query_id": "q_0027"
+    },
+    {
+      "person_id": "p_add6d19e13da",
+      "full_name": "Eyal Kushnir",
+      "normalized_name": "eyal kushnir",
+      "canonical_url": "https://github.com/kushnireyal",
+      "profile_urls": [
+        "https://github.com/kushnireyal",
+        "https://github.com/kushnireyal"
+      ],
+      "companies_matched": [
+        "IBM"
+      ],
+      "title_observed": "",
+      "seniority": "junior",
+      "classification": "peer",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Eyal Kushnir",
+          "source_url": "https://github.com/kushnireyal"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references IBM.",
+          "source_url": "https://github.com/kushnireyal"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/kushnireyal"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T02:42:41.778922+00:00",
+      "last_seen_at": "2026-05-01T02:42:41.778929+00:00",
+      "added_by_query_id": "q_0027"
+    },
+    {
+      "person_id": "p_cd51732f7dea",
+      "full_name": "Giacomo Borin",
+      "normalized_name": "giacomo borin",
+      "canonical_url": "https://github.com/giacomoborin",
+      "profile_urls": [
+        "https://github.com/giacomoborin",
+        "https://github.com/giacomoborin"
+      ],
+      "companies_matched": [
+        "IBM"
+      ],
+      "title_observed": "researcher",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Giacomo Borin",
+          "source_url": "https://github.com/giacomoborin"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references IBM.",
+          "source_url": "https://github.com/giacomoborin"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/giacomoborin"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: researcher",
+          "source_url": "https://github.com/giacomoborin"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T02:42:41.779101+00:00",
+      "last_seen_at": "2026-05-01T02:42:41.779108+00:00",
+      "added_by_query_id": "q_0027"
+    },
+    {
+      "person_id": "p_52b0fc00d987",
+      "full_name": "Thom Wiggers",
+      "normalized_name": "thom wiggers",
+      "canonical_url": "https://github.com/thomwiggers",
+      "profile_urls": [
+        "https://github.com/thomwiggers",
+        "https://github.com/thomwiggers"
+      ],
+      "companies_matched": [
+        "PQShield"
+      ],
+      "title_observed": "Researcher",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Thom Wiggers",
+          "source_url": "https://github.com/thomwiggers"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references PQShield.",
+          "source_url": "https://github.com/thomwiggers"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/thomwiggers"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Researcher",
+          "source_url": "https://github.com/thomwiggers"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T09:15:02.553608+00:00",
+      "last_seen_at": "2026-05-01T09:15:02.980629+00:00",
+      "added_by_query_id": "q_0002"
+    },
+    {
+      "person_id": "p_33d6d515b975",
+      "full_name": "Guilhem Niot",
+      "normalized_name": "guilhem niot",
+      "canonical_url": "https://github.com/GuilhemN",
+      "profile_urls": [
+        "https://github.com/GuilhemN",
+        "https://github.com/GuilhemN"
+      ],
+      "companies_matched": [
+        "PQShield"
+      ],
+      "title_observed": "",
+      "seniority": "junior",
+      "classification": "peer",
+      "review_status": "new",
+      "score": 81,
+      "resume_keyword_matches": [
+        "cryptography",
+        "security"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Guilhem Niot",
+          "source_url": "https://github.com/GuilhemN"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references PQShield.",
+          "source_url": "https://github.com/GuilhemN"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, security",
+          "source_url": "https://github.com/GuilhemN"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography,security",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T09:15:02.554073+00:00",
+      "last_seen_at": "2026-05-01T09:15:02.981044+00:00",
+      "added_by_query_id": "q_0002"
+    },
+    {
+      "person_id": "p_813923a8e64b",
+      "full_name": "Morgane Guerreau",
+      "normalized_name": "morgane guerreau",
+      "canonical_url": "https://github.com/mguerrea",
+      "profile_urls": [
+        "https://github.com/mguerrea",
+        "https://github.com/mguerrea"
+      ],
+      "companies_matched": [
+        "PQShield"
+      ],
+      "title_observed": "Engineer",
+      "seniority": "junior",
+      "classification": "peer",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Morgane Guerreau",
+          "source_url": "https://github.com/mguerrea"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references PQShield.",
+          "source_url": "https://github.com/mguerrea"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/mguerrea"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: Engineer",
+          "source_url": "https://github.com/mguerrea"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T09:15:02.554450+00:00",
+      "last_seen_at": "2026-05-01T09:15:02.981472+00:00",
+      "added_by_query_id": "q_0002"
+    },
+    {
+      "person_id": "p_935acd5b8f0b",
+      "full_name": "Nikolas Andreou",
+      "normalized_name": "nikolas andreou",
+      "canonical_url": "https://github.com/Codeh4ck",
+      "profile_urls": [
+        "https://github.com/Codeh4ck",
+        "https://github.com/Codeh4ck"
+      ],
+      "companies_matched": [
+        "Microsoft"
+      ],
+      "title_observed": "engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "c++",
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Nikolas Andreou",
+          "source_url": "https://github.com/Codeh4ck"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Microsoft.",
+          "source_url": "https://github.com/Codeh4ck"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: c++, cryptography",
+          "source_url": "https://github.com/Codeh4ck"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: engineer",
+          "source_url": "https://github.com/Codeh4ck"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:c++,cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T20:17:43.430328+00:00",
+      "last_seen_at": "2026-05-01T20:17:43.430332+00:00",
+      "added_by_query_id": "q_0050"
+    },
+    {
+      "person_id": "p_fa312062caf0",
+      "full_name": "Santiago Zanella",
+      "normalized_name": "santiago zanella",
+      "canonical_url": "https://github.com/s-zanella",
+      "profile_urls": [
+        "https://github.com/s-zanella",
+        "https://github.com/s-zanella"
+      ],
+      "companies_matched": [
+        "Microsoft"
+      ],
+      "title_observed": "",
+      "seniority": "unknown",
+      "classification": "unclear",
+      "review_status": "new",
+      "score": 73,
+      "resume_keyword_matches": [
+        "cryptography"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Santiago Zanella",
+          "source_url": "https://github.com/s-zanella"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references Microsoft.",
+          "source_url": "https://github.com/s-zanella"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography",
+          "source_url": "https://github.com/s-zanella"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:cryptography",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T20:17:43.430475+00:00",
+      "last_seen_at": "2026-05-01T20:17:43.430479+00:00",
+      "added_by_query_id": "q_0050"
+    },
+    {
+      "person_id": "p_4d20f1c7509d",
+      "full_name": "Ishan Deb",
+      "normalized_name": "ishan deb",
+      "canonical_url": "https://github.com/Ishan666deb",
+      "profile_urls": [
+        "https://github.com/Ishan666deb",
+        "https://github.com/Ishan666deb"
+      ],
+      "companies_matched": [
+        "Microsoft"
+      ],
+      "title_observed": "engineer",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "cryptography",
+        "security"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Ishan Deb",
+          "source_url": "https://github.com/Ishan666deb"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to Microsoft.",
+          "source_url": "https://github.com/Ishan666deb"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, security",
+          "source_url": "https://github.com/Ishan666deb"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: engineer",
+          "source_url": "https://github.com/Ishan666deb"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography,security",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T20:17:43.430680+00:00",
+      "last_seen_at": "2026-05-01T20:17:43.430685+00:00",
+      "added_by_query_id": "q_0050"
+    },
+    {
+      "person_id": "p_5c6429aa2afd",
+      "full_name": "Florian Kluge",
+      "normalized_name": "florian kluge",
+      "canonical_url": "https://github.com/Trivo25",
+      "profile_urls": [
+        "https://github.com/Trivo25",
+        "https://github.com/Trivo25"
+      ],
+      "companies_matched": [
+        "O1 Labs"
+      ],
+      "title_observed": "lead",
+      "seniority": "senior",
+      "classification": "aspirational",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "cryptography",
+        "systems"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Florian Kluge",
+          "source_url": "https://github.com/Trivo25"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Found via GitHub user search scoped to O1 Labs.",
+          "source_url": "https://github.com/Trivo25"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: cryptography, systems",
+          "source_url": "https://github.com/Trivo25"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: lead",
+          "source_url": "https://github.com/Trivo25"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "github-company-query",
+        "keyword-overlap:cryptography,systems",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T20:17:46.240598+00:00",
+      "last_seen_at": "2026-05-01T20:17:46.240614+00:00",
+      "added_by_query_id": "q_0054"
+    },
+    {
+      "person_id": "p_cf2801afb3bd",
+      "full_name": "Company Size Enterprises",
+      "normalized_name": "company size enterprises",
+      "canonical_url": "https://github.com/openai",
+      "profile_urls": [
+        "https://github.com/openai",
+        "https://github.com/openai"
+      ],
+      "companies_matched": [
+        "OpenAI"
+      ],
+      "title_observed": "DEVELOPER",
+      "seniority": "mid",
+      "classification": "near-peer",
+      "review_status": "new",
+      "score": 95,
+      "resume_keyword_matches": [
+        "c++",
+        "docker",
+        "python",
+        "rust",
+        "security",
+        "systems"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Company Size Enterprises",
+          "source_url": "https://github.com/openai/"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references OpenAI.",
+          "source_url": "https://github.com/openai/"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: c++, docker, python, rust, security, systems",
+          "source_url": "https://github.com/openai/"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: DEVELOPER",
+          "source_url": "https://github.com/openai/"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:c++,docker,python,rust,security",
+        "high-signal-source"
+      ],
+      "first_seen_at": "2026-05-01T20:17:49.971368+00:00",
+      "last_seen_at": "2026-05-01T20:17:49.971380+00:00",
+      "added_by_query_id": "q_0057"
+    },
+    {
+      "person_id": "p_0578eba951ab",
+      "full_name": "Hadas Gold",
+      "normalized_name": "hadas gold",
+      "canonical_url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity",
+      "profile_urls": [
+        "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity",
+        "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity"
+      ],
+      "companies_matched": [
+        "OpenAI"
+      ],
+      "title_observed": "director",
+      "seniority": "junior",
+      "classification": "peer",
+      "review_status": "new",
+      "score": 79,
+      "resume_keyword_matches": [
+        "rust",
+        "security",
+        "systems"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Hadas Gold",
+          "source_url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references OpenAI.",
+          "source_url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: rust, security, systems",
+          "source_url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity"
+        },
+        {
+          "type": "role_hint",
+          "text": "Observed role keyword: director",
+          "source_url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:rust,security,systems"
+      ],
+      "first_seen_at": "2026-05-01T20:17:51.571597+00:00",
+      "last_seen_at": "2026-05-01T20:17:51.571611+00:00",
+      "added_by_query_id": "q_0057"
+    },
+    {
+      "person_id": "p_dccb34443bbe",
+      "full_name": "Ashley Capoot",
+      "normalized_name": "ashley capoot",
+      "canonical_url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+      "profile_urls": [
+        "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+        "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html"
+      ],
+      "companies_matched": [
+        "OpenAI"
+      ],
+      "title_observed": "",
+      "seniority": "junior",
+      "classification": "peer",
+      "review_status": "new",
+      "score": 71,
+      "resume_keyword_matches": [
+        "rust",
+        "security"
+      ],
+      "evidence": [
+        {
+          "type": "identity",
+          "text": "Detected likely full name: Ashley Capoot",
+          "source_url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html?msockid=0cab8beede456f702f499ca2df0f6e96"
+        },
+        {
+          "type": "company_affiliation",
+          "text": "Page content references OpenAI.",
+          "source_url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html?msockid=0cab8beede456f702f499ca2df0f6e96"
+        },
+        {
+          "type": "relevance_topic",
+          "text": "Matched resume keywords: rust, security",
+          "source_url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html?msockid=0cab8beede456f702f499ca2df0f6e96"
+        }
+      ],
+      "reasons": [
+        "name-detected",
+        "company-mentioned",
+        "keyword-overlap:rust,security"
+      ],
+      "first_seen_at": "2026-05-01T20:17:52.528007+00:00",
+      "last_seen_at": "2026-05-01T20:17:52.528020+00:00",
+      "added_by_query_id": "q_0057"
+    }
+  ]
+}
