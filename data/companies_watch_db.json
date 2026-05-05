@@ -472,6 +472,28 @@
         }
       ],
       "status_updates": []
+    },
+    {
+      "name": "C3 AI",
+      "targets": [
+        {
+          "url": "https://c3.ai/careers/",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
+    },
+    {
+      "name": "MARS",
+      "targets": [
+        {
+          "url": "https://caish.org/mars",
+          "label": null,
+          "hash_mode": "auto"
+        }
+      ],
+      "status_updates": []
     }
   ]
 }
